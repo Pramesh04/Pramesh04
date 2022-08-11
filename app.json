@@ -1,11 +1,11 @@
 {
   "name": "Pramesh lion bot-md",
   "description": "☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣⃕ 𝙗𝙤𝙩༒ | By: pramesh lion bot| 𝐌𝐑:☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙣𝙞𝙡𝙖𝙠𝙨𝙝𝙖𝙣༒☬ ",
-  "repository": "https://github.com/prabhasha2006/Red-Dragon",
+  "repository": "https://github.com/Pramesh04/pramesh-lion-bot",
   "logo": "https://i.ibb.co/CMCNByx/Picsart-22-07-03-15-45-00-698.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
-    {
+  
       "url": "heroku/nodejs"
     },
     {
