@@ -4,16 +4,13 @@
   "repository": "https://github.com/Pramesh04/pramesh-lion-bot",
   "logo": "https://i.ibb.co/CMCNByx/Picsart-22-07-03-15-45-00-698.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "buildpacks": [
-  
+ "buildpacks": [
+    {
       "url": "heroku/nodejs"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
-    {
-            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
-        },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
